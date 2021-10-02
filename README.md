@@ -29,3 +29,15 @@ user-friendly solution.
   - Dynamic web project
   - VS code IDE
   - Django Embedded server
+
+### Proposed Solution
+* The same nutrient can be provided by
+many food items. The ML model would
+focus on helping organisations opt for
+products that would fulfil the nutritional
+requirements at minimum cost.
+* The web app also updates the user with
+information like government
+entitlement norms per person, diet
+plans, nutritional values of vegetables
+etc.
