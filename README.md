@@ -22,3 +22,10 @@ groceries to fulfill the nutritional demand of children can be
 optimized. It reduces the time to make a list. Web app built with
 a Django framework integrates ML functionalities to provide a
 user-friendly solution.
+
+### Technologies 
+  - Backend: 100% python
+  - SQLite
+  - Dynamic web project
+  - VS code IDE
+  - Django Embedded server
