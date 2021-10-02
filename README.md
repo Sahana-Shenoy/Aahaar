@@ -4,6 +4,9 @@ This is a Dynamic Webapp created in python with SQLite database.
 
 ## Table of Contents
   * [Introduction](#general-info)
+  * [Motivation](#motivation)
+  * [Tecnologies](#technologies)
+  * [Proposed Solution](#proposed-solution)
 
 ### Introduction
 * 189.2 million individuals are undernourished in India. (source)
@@ -59,4 +62,5 @@ entitlement norms per person, diet
 plans, nutritional values of vegetables
 etc.
 
+![image](https://user-images.githubusercontent.com/46528316/135709746-00b7c475-f64f-4783-88e1-b17b0d92e5f9.png)
 
