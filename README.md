@@ -2,8 +2,16 @@
 # Aahaar Webapp
 This is a Dynamic Webapp created in python with SQLite database.
 
+## Demo
+![Picture1](https://user-images.githubusercontent.com/46528316/135710504-2057b2e2-4168-4889-bb0d-9a8074555198.png)
+![Picture2](https://user-images.githubusercontent.com/46528316/135710510-459293cb-ea3a-41ff-b0f0-0b7d8f4dbe0e.png)
+
+
 ## Table of Contents
   * [Introduction](#general-info)
+  * [Motivation](#motivation)
+  * [Tecnologies](#technologies)
+  * [Proposed Solution](#proposed-solution)
 
 ### Introduction
 * 189.2 million individuals are undernourished in India. [(source)](https://www.indiafoodbanking.org/hunger#:~:text=189.2%20million%20people%20are%20undernourished%20in%20India.)
@@ -58,5 +66,7 @@ information like government
 entitlement norms per person, diet
 plans, nutritional values of vegetables
 etc.
+
+![image](https://user-images.githubusercontent.com/46528316/135709746-00b7c475-f64f-4783-88e1-b17b0d92e5f9.png)
 
 
